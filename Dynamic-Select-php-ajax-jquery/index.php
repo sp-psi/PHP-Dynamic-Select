@@ -15,7 +15,7 @@
 	<!-- NAV BAR -->
 	<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #3f51b5;">
 	  	<div class="container-fluid">
-			<a class="navbar-brand" href="https://www.oficina.pt/">OFICINA</a>
+			<a class="navbar-brand" href="https://www.estel.edu.pt/">ESTEL</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=
 			"#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label=
 			"Toggle navigation">
@@ -26,12 +26,8 @@
 	<!-- NAV BAR END -->
 	<!-- TITULO  -->
 	<div class="row">
-		<div class="col-md-12 mt-5">
-		<center>
-			<h1>
-				Dropdown din&acirc;mica | PHP | MySql | jQuery | Ajax 
-			</h1>
-		</center>
+		<div class="col-md-12 mt-5 text-center">
+			<h1>Dropdown din&acirc;mica | PHP | MySql | jQuery | Ajax </h1>
 		</div>
 	</div>
 	<!-- TITULO END -->
